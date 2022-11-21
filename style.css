@@ -1,0 +1,63 @@
+
+body {
+    background-color: grey;
+    color: blanchedalmond;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.atas h1{
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: linear-gradient(black,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.atas h3 {
+    font-size: 30px;
+    background-image: linear-gradient(black,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.uang {
+    padding: 20px;
+}
+
+.uang h3 {
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    background-image: linear-gradient(black,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.uang label {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: aqua;
+}
+
+.uang input {
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.suhu h3{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: linear-gradient(black,white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.suhu input{
+    width: 150px;
+    height: 20px;
+    border-radius: 5px;
+}
